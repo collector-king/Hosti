@@ -6,5 +6,5 @@ A web application where users can upload Python scripts via a website to run 24/
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/<your-username>/my-python-runner.git
+   git clone https://github.com/collector-king/Hosti.git
    cd my-python-runner
